@@ -18,27 +18,16 @@ I’m a Mechanical Engineering undergraduate at the Academy of Technology, gradu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=onnoi10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <div align="center">
-
 <h1>📊 GitHub Stats</h1>
-
 <img src="https://github-readme-stats.vercel.app/api?username=onnoi10&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" /><br/><br/>
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=onnoi10&theme=transparent&hide_border=true" /><br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onnoi10&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-
 <br/><br/>
-
 <h3>✍️ Random Dev Quote</h3>
-
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
-
 <br/><br/>
-
 <h3>🔝 Top Contributed Repo</h3>
-
 <img src="https://github-contributor-stats.vercel.app/api?username=onnoi10&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
 </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=onnoi10&icon=0&color=0)](https://visitcount.itsvg.in)
